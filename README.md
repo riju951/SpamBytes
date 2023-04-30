@@ -13,5 +13,3 @@ Using machine learning model, we have clustered data according to locations and 
 ![2](https://user-images.githubusercontent.com/82694741/235339635-d7c45a6d-44b6-4a11-9e16-a3327d30f335.jpeg)
 
 ![3](https://user-images.githubusercontent.com/82694741/235339639-aca2706d-ee61-42ee-9d50-ef83c67c868c.jpeg)
-
-https://drive.google.com/drive/folders/1Vby03LLNUiAv7jCAc5Wqo6GfJ1uNjMrW?usp=sharing
